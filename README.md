@@ -1,1 +1,1 @@
-# MyJournalFinal
+# My-Journal
